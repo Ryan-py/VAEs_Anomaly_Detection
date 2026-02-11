@@ -36,7 +36,7 @@ $$\text{Anomaly Score} = | \text{Input Image} - \text{Reconstructed Image} |$$
 ### General Defect Detection
 The model successfully differentiates between normal and anomalous samples across various categories. As seen below, the **Heatmap** (right column) lights up in red/yellow exactly where the defect is located.
 
-![General Results](images\vae_results.png)
+![General Results](images/vae_results.png)
 
 * **Cable:** The model identifies the exposed wire strands.
 * **Grid:** The broken metal link is clearly highlighted against the background.
